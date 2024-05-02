@@ -2,11 +2,11 @@
     <section class="rgdp-container">
         <h2>FINALIDAD EN EL TRATAMIENTO DE LOS DATOS</h2>
         <ul>
-            <li>ENERGY BUSINESS CENTER 2014 SL</li>
+            <li>GLOBAL DATAWORK SL</li>
             <li>CIF: | B66426537</li>
             <li>Dirección: | MARESME, 54 2 4D , 08023 TERRASSA - BARCELONA</li>
             <li>Teléfono: | 670450550</li>
-            <li>Email: | rgpd@energybusiness.es</li>
+            <li>Email: | rgpd@global-datawork.com</li>
         </ul>
         <p>
             Tratamiento de los datos personales con la finalidad de tramitar y
@@ -23,11 +23,11 @@
             del objeto del contrato.
         </p>
         <p>
-            Comunicaciones comerciales: Mediante consentimiento expreso, ENERGY
-            BUSINESS CENTER 2014 SL. , utilizará los datos personales con la
-            finalidad de enviarle comunicaciones y mantenerle informado acerca
-            de las novedades, noticias, eventos, productos y servicios
-            relacionados con nosotros o nuestro sector.
+            Comunicaciones comerciales: Mediante consentimiento expreso, GLOBAL
+            DATAWORK SL. , utilizará los datos personales con la finalidad de
+            enviarle comunicaciones y mantenerle informado acerca de las
+            novedades, noticias, eventos, productos y servicios relacionados con
+            nosotros o nuestro sector.
         </p>
 
         <h2>LEGITIMACIÓN EN EL TRATAMIENTO DE LOS DATOS</h2>
@@ -80,7 +80,7 @@
             El interesado podrá ejercitar sus derechos sobre protección de datos
             (acceso, rectificación, oposición, supresión, limitación,
             portabilidad y no ser objeto de decisiones individuales
-            automatizadas) por correo electrónico en rgpd@energybusiness.es, o
+            automatizadas) por correo electrónico en rgpd@global-datawork.com, o
             por correo postal enMARESME, 54 2 4D , 08023 TERRASSA - BARCELONA D.
             En cualquier caso, puede solicitar la tutela de la Agencia Española
             de Protección de Datos a través de su página web.
@@ -122,7 +122,7 @@
             El interesado podrá ejercitar sus derechos sobre protección de datos
             (acceso, rectificación, oposición, supresión, limitación,
             portabilidad y no ser objeto de decisiones individuales
-            automatizadas) por medio del correo rgpd@energybusiness.es
+            automatizadas) por medio del correo rgpd@global-datawork.com
         </p>
 
         <h5>Gracias por confiar en nuestro asesoría energética.</h5>
@@ -131,7 +131,7 @@
             del mercado energético.
         </h5>
 
-        <h2>ENERGY BUSINESS CENTER 2014 SL.</h2>
+        <h2>GLOBAL DATAWORK SL.</h2>
     </section>
 </template>
 
