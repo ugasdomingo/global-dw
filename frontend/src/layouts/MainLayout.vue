@@ -3,7 +3,7 @@
         <q-header class="row justify-between q-px-md items-center header">
             <RouterLink to="/">
                 <q-img
-                    src="img/logo-datawork-nobg.webp"
+                    src="/img/logo-datawork-nobg.webp"
                     alt="logo image"
                     class="logo"
                 />
